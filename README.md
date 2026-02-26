@@ -4,10 +4,7 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Courier%20New&fontWeight=700&size=32&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=hey%2C+I%E2%80%99m+Lokie+%F0%9F%91%8B" alt="Typing intro" />
-</p>a cs major exploring backend 
-
-
-working with python(fastAPI) + postgres
+</p>a cs major 
 
 ---
 
