@@ -8,13 +8,13 @@
 
 ---
 
-**Tools**
+**Stack**
 
 • html • css • tailwind • javascript • typescript • git • bash
 
 ---
 
-**Connect**
+## Connect
 
 - LinkedIn: (Currently Inactive)
 - Portfolio: https://lokie.dev
