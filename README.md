@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=1000&color=000000&vCenter=true&width=435&lines=hey%2C+I%E2%80%99m+Lokie+%F0%9F%91%8B" alt="Typing intro" />
+</p>a cs major getting into backend 
 
-<!--
-**Lokie027/Lokie027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+working with python(fastAPI) + postgres
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+what I’m up to
+
+- building small projects that solve real annoyances
+- exploring systems, web, and a bit of AI
+- trying to get 1% better at coding every week
+
+---
+
+🧰 tools
+
+Python • FastAPI • html • css • tailwind • javascript • git • bash
+
+---
+
+🌍 Connect
+
+- LinkedIn: (Currently Inactive)
+- Portfolio: lokie.dev
+- Email: plokesh1686@gmail.com
+
+---
