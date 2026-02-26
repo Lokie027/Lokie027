@@ -13,7 +13,7 @@ working with python(fastAPI) + postgres
 
 **Tools**
 
-Python • FastAPI • html • css • tailwind • javascript • git • bash
+• html • css • tailwind • javascript • typescript • git • bash
 
 ---
 
