@@ -1,4 +1,3 @@
-![Lokie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokie027&show_icons=true)
 
 ---
 <h2>Hey I'm Lokie 👋</h2>
