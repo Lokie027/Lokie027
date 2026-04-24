@@ -1,10 +1,9 @@
 ![Lokie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokie027&show_icons=true)
 
 ---
+<h2>Hey I'm Lokie 👋</h2>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=CaskaydiaCove%20Nerd%20Font%20Mono&fontWeight=1000&size=30&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=hey%2C+I%E2%80%99m+Lokie+%F0%9F%91%8B" alt="Typing intro" />
-</p>a computer science student with a real interest in backend devolopment
+a computer science student with a real interest in backend devolopment
 
 ---
 
