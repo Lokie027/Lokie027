@@ -2,7 +2,7 @@
 ---
 <h2>Hey I'm Lokie 👋</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lokie027&show_icons=true&theme=nord&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokie027&layout=compact&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&hide_border=true"/>
 
 ---
 
