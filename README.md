@@ -2,13 +2,13 @@
 ---
 <h2>Hey I'm Lokie 👋</h2>
 
-a computer science student with a real interest in backend devolopment
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokie027&layout=compact&theme=nord&hide_border=true"/>
 
 ---
 
 ## Stack
 
-• html • css • tailwind • javascript • typescript • git • bash
+• C++ • Python • Tailwind • Javascript • Node • git • bash
 
 ---
 
