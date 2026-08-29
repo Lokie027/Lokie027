@@ -2,13 +2,13 @@
 ---
 <h2>Hey, I'm Lokie 👋</h2>
 
-[![Lokie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokie027&bg_color=2E3440&color=88C0D0&line=81A1C1&point=D8DEE9&hide_border=true)](https://github.com/Lokie027)
+Linux enthusiast, C++ developer, and builder of things.
 
 ---
 
 ## Stack
 
-• C++ • Python • Tailwind • Javascript • Node • git • bash
+• C++ • Python • C • Tailwind • Javascript • Node • git • bash
 
 ---
 
