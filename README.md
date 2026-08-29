@@ -2,10 +2,7 @@
 ---
 <h2>Hey, I'm Lokie 👋</h2>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lokie027&show_icons=true&count_private=true&theme=nord&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokie027&layout=compact&theme=nord&hide_border=true" />
-</p>
+[![Lokie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokie027&bg_color=2E3440&color=88C0D0&line=81A1C1&point=D8DEE9&hide_border=true)](https://github.com/Lokie027)
 
 ---
 
