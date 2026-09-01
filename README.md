@@ -15,7 +15,7 @@ Linux enthusiast, C++ developer, and builder of things.
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lokie027&theme=nord_dark" height="200" width="40%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lokie027&theme=nord_dark&utcOffset=5.5" height="200" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lokie027&theme=nord_dark&utcOffset=5.3" height="200" width="40%"/>
 
 <br/><br/>
 
