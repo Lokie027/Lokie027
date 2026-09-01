@@ -14,14 +14,16 @@ Linux enthusiast, C++ developer, and builder of things.
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lokie027&theme=nord_dark" height="180" width="40%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lokie027&theme=nord_dark&utcOffset=5.5" height="180" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lokie027&theme=nord_dark" height="200" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lokie027&theme=nord_dark&utcOffset=5.5" height="200" width="40%"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokie027&theme=nord&hide_border=true" width = "80%"/>
 
 <br/><br/>
+
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=Lokie027&layout=compact&langs_count=8&card_width=320&theme=nord" />
 
 </div>
 
